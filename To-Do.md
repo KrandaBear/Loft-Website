@@ -18,7 +18,7 @@
   - [ ] case studies completed
   - [ ] all nav functional 
   
-  -[ ] Icons / Illustrations
+ - [ ] Icons / Illustrations
     - [ ] Comps / Sketches 
     - [ ] first round ideation
     
