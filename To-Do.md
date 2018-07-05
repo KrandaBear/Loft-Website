@@ -12,7 +12,7 @@
 - [ ] Review Changes 
 
 #  Implementation (by July 18th)
--[ ] Desktop website
+- [ ] Desktop website
   - [ ] text laid out
   - [ ] placeholder images (for icons  and others)
   - [ ] case studies completed
