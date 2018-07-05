@@ -22,11 +22,11 @@
     - [ ] Comps / Sketches 
     - [ ] first round ideation
     
--[ ] Video / Moving Pictures
+- [ ] Video / Moving Pictures
       - [ ] create concepts / select clips or images
       - [ ] Create  first rounds for semi-final placeholder
       
-  -[ ] Slingshot page
+  - [ ] Slingshot page
     - [ ] find inspiration
     - [ ] Create initial layout  (sketch)
   
