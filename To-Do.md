@@ -34,18 +34,18 @@
  - [ ] Test desktop on different  browsers 
  - [ ] Implement semi-final graphics + Text
  
- -[ ] Mobile breakpoint (priority)
-  -[ ] Test on iOS and Android for issues
+ - [ ] Mobile breakpoint (priority)
+  - [ ] Test on iOS and Android for issues
   
--[ ] Tablet  breakpoint
-  -[ ] Test on different sized devices
+- [ ] Tablet  breakpoint
+  - [ ] Test on different sized devices
   
- -[ ] Video / Moving Pictures
+ - [ ] Video / Moving Pictures
   - [ ] Review first round
   - [ ] Suggest changes
   - [ ] Create final (for 1st) comps
   
-  -[ ] Slingshot splashpage
+  - [ ] Slingshot splashpage
     - [ ] create first draft  in Webflow
     - [ ] Review
     - [ ] Suggest Changes
@@ -63,9 +63,9 @@
   
   # Further Polishing (Post Aug 1st)
    - [ ] Animations
-    -[ ] for scrolling images
-    -[ ] for content viewers
-    -[ ] for all other content
+    - [ ] for scrolling images
+    - [ ] for content viewers
+    - [ ] for all other content
     
    - [ ] Slingshot
     - [ ] Start working on entire layout
