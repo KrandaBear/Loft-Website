@@ -27,8 +27,8 @@
       - [ ] Create  first rounds for semi-final placeholder
       
   - [ ] Slingshot page
-    [ ] find inspiration
-    [ ] Create initial layout  (sketch)
+   - [ ] find inspiration
+   - [ ] Create initial layout  (sketch)
   
  # Further Implementation / Testing (July 25th)
  - [ ] Test desktop on different  browsers 
