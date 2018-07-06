@@ -23,8 +23,8 @@
     - [ ] first round ideation
     
 - [ ] Video / Moving Pictures
-      - [ ] create concepts / select clips or images
-      - [ ] Create  first rounds for semi-final placeholder
+     - [ ] create concepts / select clips or images
+     - [ ] Create  first rounds for semi-final placeholder
       
   - [ ] Slingshot page
    - [ ] find inspiration
