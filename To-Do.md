@@ -7,7 +7,8 @@
   
 - [ ] Look for skatboard icons / designs
 
-- [ ] Create new sketch mockup
+- [x] Create new sketch mockup
+  - [ ] Look  for more icon ideas
 
 - [ ] Review Changes 
 
