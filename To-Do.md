@@ -1,9 +1,9 @@
 # Research-Planning (by July 10th)
-- [ ] Research layouts 
-  - [ ] for cross page content
-  - [ ] for nav bar 
-  - [ ] margins
-  - [ ] nav menu layout
+- [x] Research layouts 
+  - [x] for cross page content
+  - [x] for nav bar 
+  - [x] margins
+  - [x] nav menu layout
   
 - [x] Look for skatboard icons / designs
   - [ ] Look  for more icon ideas
